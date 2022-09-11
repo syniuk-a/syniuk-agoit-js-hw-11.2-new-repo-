@@ -2,10 +2,10 @@
   "name": "goit-js-hw-11",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://syniuk-a.github.io/goit-js-hw-11/",
+  "homepage": "https://syniuk-a.github.io/syniuk-agoit-js-hw-11.2-new-repo-/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /syniuk-agoit-js-hw-11.2-new-repo-/"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,4 @@
     "notiflix": "^3.2.2",
     "simplelightbox": "^2.10.1"
   }
-
 }
